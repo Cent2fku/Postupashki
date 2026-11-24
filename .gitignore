@@ -1,0 +1,11 @@
+cache/
+amortization.csv
+.ipynb_checkpoints/
+/collection_status.csv
+/financials.csv
+company_locations.csv
+/construction_map.html
+
+/amortization_collection.csv
+
+__pycache__/
